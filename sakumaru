@@ -10,7 +10,7 @@ on:
       agent_description:
         description: 'dvdragnarok'
         required: true
-        default: 'dvdragnaroka AI Agent'
+        default: 'dvdragnarok AI Agent'
 
 jobs:
   verify:
